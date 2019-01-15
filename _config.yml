@@ -1,0 +1,14 @@
+title: Orycion
+email: hello@orycion.com
+
+description: >-
+  We provide a variety of software products and services designed to make your
+  life easier.
+
+url: "https://www.orycion.com"
+
+twitter_username: orycion
+github_username:  orycion
+
+markdown: kramdown
+theme: jekyll-theme-cayman
