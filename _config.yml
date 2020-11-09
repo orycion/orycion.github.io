@@ -1,16 +1,13 @@
 title: Orycion
-email: hello@orycion.com
-
-description: >-
-  We provide a variety of software products and services designed to make your
-  life easier.
-
+tagline: We design and build digital products, feel free to contact us for more information.
 url: https://www.orycion.com
 
-twitter_username: orycion
-github_username:  orycion
+plugins:
+  - jekyll-remote-theme
 
-markdown: kramdown
-theme: minima
+remote_theme: sziv2p/jekyll-theme-scaffold
 
 google_analytics: UA-157030898-1
+
+collections:
+  - products

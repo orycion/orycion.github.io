@@ -1,15 +1,27 @@
 ---
-layout: default
+layout: home
 ---
 
-# We make apps
+<div class="separator">Products</div>
 
-## Mission Statement
+<div style="column-count: 3;">
+  {% for product in site.products %}
+    <a href="{{ product.website }}">
+      <img src="/assets/products/{{ product.icon }}.png" alt="" />
+      <p style="text-align: center;">{{ product.name }}</p>
+    </a>
+  {% endfor %}
+</div>
 
-We provide a variety of software products and services designed to make your life easier.
+<!-- <div class="separator">Values</div>
 
-## Values
+<dl>
+  <dt>Open</dt>
+  <dd>We’re always receptive to feedback and strive to be honest in everything we do.</dd>
 
-- Quality
-- Educate
-- Compassion
+  <dt>Quality</dt>
+  <dd>We always aim to provide a high quality experience to our customers. There’s nothing we hate more than bad quality software.</dd>
+
+  <dt>Educate</dt>
+  <dd>A sea serpent.</dd>
+</dl> -->

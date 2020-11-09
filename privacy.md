@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Privacy policy
 ---
-
-# Privacy Policy
 
 Your privacy is critically important to us. At Orycion, we have a few fundamental principles:
 
