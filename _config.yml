@@ -5,12 +5,13 @@ description: >-
   We provide a variety of software products and services designed to make your
   life easier.
 
-url: https://www.orycion.com
+url: "https://www.orycion.com"
 
 twitter_username: orycion
 github_username:  orycion
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 
-google_analytics: UA-157030898-1
+collections:
+  - products
