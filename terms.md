@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: Terms of service
 ---
-
-# Terms of Service
 
 The following terms and conditions ("Terms") govern all use of any Orycion service and all content and products available at or through the service, including, but not limited to, Orycion Website ("Orycion"), Château ("Château"), and Strive ("Strive"), (taken together, our "Services"). Our Services are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, [Orycion's Privacy Policy](https://www.orycion.com/privacy)) and procedures that may be published from time to time by Orycion (collectively, the "Agreement"). You agree that we may automatically upgrade our Services, and these Terms will apply to any upgrades.
 
