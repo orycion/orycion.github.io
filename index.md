@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Orycion
+# We make apps
 
 ## Mission Statement
 
