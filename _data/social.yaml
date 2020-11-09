@@ -1,0 +1,11 @@
+- title: Email
+  url: mailto:hello@orycion.com
+  icon: fas fa-envelope
+
+- title: Twitter
+  url: https://twitter.com/orycion
+  icon: fab fa-twitter
+
+- title: GitHub
+  url: https://github.com/orycion
+  icon: fab fa-github
